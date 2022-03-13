@@ -1,12 +1,16 @@
 // Dashboard
-import MainLayout from "./Dashboard/MainLayout"
-import Home from "./Dashboard/Home"
-import Profile from "./Dashboard/Profile"
-import Search from "./Dashboard/Search"
+import MainLayout from "./MainLayout"
+import Home from "./Home"
+import Profile from "./Profile"
+import Search from "./Search"
+import LoginScreen from "./LoginScreen"
+import RegisterScreen from "./RegisterScreen"
 
 export {
     MainLayout,
     Home,
     Profile,
-    Search
+    Search,
+    LoginScreen,
+    RegisterScreen
 }
